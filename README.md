@@ -1,4 +1,5 @@
-The project is primarily made from timber, 3D printed parts and some metal angle iron.
+The Open Saddle Vibrator is a sit-on vibrator that can be made at home with a 3D printer and some basic hand tools. The project is primarily made from timber, 3D printed parts and some metal angle iron.
+
 Dome has an 7 ply ply-wood arch frames to keep its shape and is covered in 2 lays of 3 ply ply-wood with layers of thin rubber, foam and leather. It is also covered internally with a sound dampening material.
 Base is 12mm ply wood to which the internal framework is bolted.
 Sides are also 12mm plywood, covered in leather for aesthetics and have eyebolts mounted in the lower corners, handles and the IO and power connectors mounted.
