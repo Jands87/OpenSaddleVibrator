@@ -15,3 +15,5 @@ The electronics are relatively simple. An Arduino Uno acts as the mainboard, and
 The Uno as the mainboard controls the 2 ESCs controlling the rotation motor (55RPM 12V geared) and the vibration motor (100W 2750RPM straight motor).
 
 The Nano in the controller has 2 pots to control the speed of the motor controllers and 2 buttons for the instant 100% pulse mode and the other for a slow ramping mode. The Arduinos communicate via serial using Serial.print() Arduino fuction with a very straight forward protocol (hoping to get it to use the buttplug.io system in the future).
+
+You can find a great build guide over on the the OSV subreddit https://www.reddit.com/r/OpenSaddleVibrator written by u/stumro.
