@@ -1,5 +1,5 @@
 
-| Size | Where is it used | Qty Req |
+|Size| Where is it used | Qty Req |
 |------|-------------|---------|
 |M5x16 | M8 Bearing to M8 Bearing Mount	|4|
 |M6x16 | M15 Bearing to M15 Bearing Mount	|4|
