@@ -19,7 +19,8 @@
 |M6x35 | Frame Legs to Base (x8) (Countersunk)	|8|
 |M8x30 | 100W Motor Mount to Base (x2) (Countersunk)	|2|
 |M8x30 | Rotary Motor Mount to Base (x2) (Countersunk)	|2|
-|M8x80 Rod - Not needed for single frame rail print	|2|
-|M8x150 - M8 Bearing through Bearing Offset	|1|
-|Nylon Rod and Spring Pack |1|
-|Wild West 4" Silicone Attachment |1|
+|M8x80 Rod | Not needed for single frame rail print	|2|
+|M8x150 | M8 Bearing through Bearing Offset	|1|
+
+Nylon Rod and Spring Pack x 1
+Wild West 4" Silicone Attachment x 1
