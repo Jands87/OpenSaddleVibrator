@@ -1,5 +1,5 @@
 
-| Size | Description | Qty Req |
+| Size | Where is it used | Qty Req |
 |------|-------------|---------|
 |M5x16 | M8 Bearing to M8 Bearing Mount	|4|
 |M6x16 | M15 Bearing to M15 Bearing Mount	|4|
@@ -15,14 +15,13 @@
 |M8x20 | Rotary Motor Mount to Rotary Motor Block	|2|
 |M5 | Nuts (For M8 Bearing)	|4|
 |M6 | Nuts (For M15 Bearing)	|4|
-|||
 |M6x35 | Frame Legs to Base (x8) (Countersunk)	|8|
 |M8x30 | 100W Motor Mount to Base (x2) (Countersunk)	|2|
 |M8x30 | Rotary Motor Mount to Base (x2) (Countersunk)	|2|
 |M8x80 Rod | Not needed for single frame rail print	|2|
 |M8x150 | M8 Bearing through Bearing Offset	|1|
+<h6>Nylon Rod and Spring Pack x 1 </h6>
 
-Nylon Rod and Spring Pack x 1 
 <br>
 
-Wild West 4" Silicone Attachment x 1
+<h2>Wild West 4" Silicone Attachment x 1
