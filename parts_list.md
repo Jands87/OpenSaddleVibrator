@@ -23,4 +23,5 @@
 |M8x150 | M8 Bearing through Bearing Offset	|1|
 
 Nylon Rod and Spring Pack x 1
+
 Wild West 4" Silicone Attachment x 1
