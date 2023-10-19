@@ -1,7 +1,7 @@
 
 | Part Name | Qty Required | Source |
 |-----------|--------------|--------|
-Nylon Rod and Spring Pack	1
+|Nylon Rod and Spring Pack|1||
 Wild West 4" Silicone Attachment	1
 	
 M5x16 - M8 Bearing to M8 Bearing Mount	4
