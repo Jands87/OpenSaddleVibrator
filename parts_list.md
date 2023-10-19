@@ -22,6 +22,7 @@
 |M8x80 Rod | Not needed for single frame rail print	|2|
 |M8x150 | M8 Bearing through Bearing Offset	|1|
 
-Nylon Rod and Spring Pack x 1
+Nylon Rod and Spring Pack x 1 
+<br>
 
 Wild West 4" Silicone Attachment x 1
